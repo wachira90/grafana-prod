@@ -1,5 +1,5 @@
-# grafana-docker
-grafana docker
+# grafana-prod
+grafana production
 
 
 ## add data source
